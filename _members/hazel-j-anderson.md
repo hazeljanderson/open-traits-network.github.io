@@ -13,4 +13,4 @@ github: hazeljanderson
 Hazel is a Ph.D. Student Researcher based in East Lansing, Michigan. 
 
 ## Collaboration statement
-My research interests involve interdisciplinary methods to improve plant conservation, such as data science, open science, plant community ecology, spatial ecology, remote sensing, and biogeography. I am use plant functional traits to answer questions of plant biodiversity patterns across space and time.
+My research interests involve interdisciplinary methods to improve plant conservation, such as data science, open science, plant community ecology, spatial ecology, remote sensing, and biogeography. I use plant functional traits to answer questions of plant biodiversity patterns across space and time.
