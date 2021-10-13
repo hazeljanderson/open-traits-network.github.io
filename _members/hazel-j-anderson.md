@@ -10,10 +10,7 @@ affiliation: Department of Integrative Biology, Michigan State University, East 
 github: hazeljanderson
 ---
 
-Hazel is a plant ecology student researcher based in East Lansing, Michigan. 
+Hazel is a Ph.D. Student Researcher based in East Lansing, Michigan. 
 
 ## Collaboration statement
-I am currently working on a project to align plant and frugivore traits in space: improving biodiversity conservation assessments for Neotropical plants. I am using the BIEN and TRY databases for plants in this research.
-
-I am interested in learning from more experienced researchers in the field and ensuring my work is following the characteristics of open science. 
-
+My research interests involve interdisciplinary methods to improve plant conservation, such as data science, open science, plant community ecology, spatial ecology, remote sensing, and biogeography. I am use plant functional traits to answer questions of plant biodiversity patterns across space and time.
